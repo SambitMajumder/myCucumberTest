@@ -27,4 +27,4 @@ Feature: Created for Login Testing
    Examples: 
      | email  | password 	 |	
      | paliwalaman23@gmail.com 	| JackNJill@123  | 
-     | name2@gmail.com 	| 456864646  |
+     
